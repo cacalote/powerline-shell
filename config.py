@@ -12,11 +12,12 @@ SEGMENTS = [
     'hostname',
     'virtual_env',
     'ssh',
-    'simple_cwd',
+    'cwd',
     'git',
     'hg',
     'svn',
     'read_only',
+    'newline',
     'root',
 ]
 
